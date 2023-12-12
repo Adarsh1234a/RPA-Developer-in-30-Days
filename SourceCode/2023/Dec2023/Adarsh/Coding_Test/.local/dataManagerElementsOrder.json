@@ -1,0 +1,42 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "SortedDT&Sequence_1",
+        "Rank&Sequence_1",
+        "At_Kt&Sequence_1",
+        "Total&Sequence_1",
+        "ArrSubjects&Sequence_1",
+        "InputDT&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RPAsample1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "EnterDate&Sequence_1",
+        "LastDate&Sequence_1",
+        "CurrentDate&Sequence_1",
+        "StartDate&Sequence_1",
+        "TodaysDate&Sequence_1",
+        "TodayDate&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
